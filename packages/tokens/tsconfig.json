@@ -1,0 +1,4 @@
+{
+   "extends": "@tayhsn-ui/ts-config/base.json",
+   "include": ["src"]
+}
