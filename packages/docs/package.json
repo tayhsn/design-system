@@ -27,6 +27,7 @@
     "@tayhsn-ui/react": "*",
     "@tayhsn-ui/tokens": "*",
     "@tayhsn-ui/eslint-config": "*",
+    "@tayhsn-ui/ts-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
