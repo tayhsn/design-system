@@ -24,10 +24,12 @@
     "vite": "^4.0.1"
   },
   "dependencies": {
+    "@tayhsn-ui/eslint-config": "*",
     "@tayhsn-ui/react": "*",
     "@tayhsn-ui/tokens": "*",
-    "@tayhsn-ui/eslint-config": "*",
     "@tayhsn-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
