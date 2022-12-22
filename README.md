@@ -1,6 +1,6 @@
 # @TayhSN-UI
 
-** Design System para projetos React. **
+**Design System para projetos React.**
 
 ## 📑 Sobre
 
