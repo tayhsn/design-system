@@ -1,0 +1,2 @@
+import{A as t}from"./index-74d7d5d1.js";import"./index-f5eaf660.js";import"./es.object.get-own-property-descriptor-b0ef2764.js";import"./index-680d9cdc.js";import"./jsx-runtime-71ca1150.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/tayhsn.png",alt:"Tayanne Novais"},argTypes:{src:{control:{type:"text"}}}},c={},n={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,n as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-6af97542.js.map
