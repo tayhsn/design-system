@@ -1,28 +1,36 @@
-# @TayhSN-UI
+# @TayhSN UI
 
 **Design System para projetos React.**
 
 ## 📑 Sobre
 
-> Projeto do 5º e último módulo do curso de especialização em React.js: Ignite.
+> Projeto do 5º módulo do Ignite.
 
-Desenvolvido um Design System do Zero, possuindo:
+Design System desenvolvido do Zero e conta com os tokens principais já definidos. O projeto está em construção e já possui os seguintes componentes:
 
-- Definição dos tokens
-- Configuração do ESlint e TS-Config em monorepo
-- Criação dos componentes e documentação no Storybook.
-- Cache de build
+- Avatar
+- Box
+- Button
+- Checkbox
+- Heading
+- MultiStep
+- Text
+- TextArea
+- TextInput
+- Toast
+- Tooltip
 
 ## 🧠 Aprendizados
 
-- Criação e configuração do **Storybook**
-- Utilização do **TurboRepo**
-- Publicação de pacote no NPM
-- Configuração de ontrole de Versão de Monorepo com Changeset
-- Workflow CI/CD no Github Actions com Cache
-- Configuração de Remote Caching na Vercel
+- Configuração do ESlint e TS Config em um Monorepo.
+- Configuração e documentação do Storybook.
+- Configuração do TurboRepo.
+- Publicação de pacotes no NPM de forma automatizada.
+- Controle de Versão com Changeset.
+- Criação do Workflow CI/CD no Github Actions e configuração de Cache.
+- Configuração de Remote Caching na Vercel.
 
-## 🛠 Tecnologias utilizadas
+## 🛠 Ferramentas utilizadas
 
 - Typescript
 - TSUP
