@@ -11,7 +11,12 @@ import { useState } from 'react'
 export default {
   title: 'Data Display/Toast',
   component: Toast,
-  args: {},
+  args: {
+    args: {
+      title: 'This is a toast title',
+      content: 'This is the toast content',
+    },
+  },
   decorators: [
     (Story, { args }) => {
       const [isOpen, setIsOpen] = useState(false)
